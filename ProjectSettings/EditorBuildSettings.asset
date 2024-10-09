@@ -9,6 +9,16 @@ EditorBuildSettings:
     path: Assets/Samples/WebXR Interactions/0.22.0/Sample Scene/Scenes/Desert.unity
     guid: 85380d4847db7b74a850284461349c36
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 18523661cf9ff364e95813c37dfa3ab2,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 106f1f0ed8b870c439afcda9e1368c8c,
+      type: 2}
     WebXR.Settings: {fileID: 11400000, guid: e9cd951915250774a9e625febed6fd56, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3bc1113708644cb4d86130bcfccc696d,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 87edb0564cd8d644fbe6b6f507e18ff0,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 29d9f0b6d24612744850785643b6ddb4,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a8b51f2827a755b49a377fe62a085489,
       type: 2}
